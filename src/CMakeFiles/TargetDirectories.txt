@@ -1,0 +1,1 @@
+/home/blue/work/opencv/src/src/CMakeFiles/opencv_gst.dir
