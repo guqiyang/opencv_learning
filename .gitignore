@@ -4,3 +4,4 @@ build
 *.jpg
 *.o
 cmake-build-debug
+.idea
